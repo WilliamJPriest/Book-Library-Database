@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Book-Library-Database/static/css/main.1603296b.css",
+    "main.js": "/Book-Library-Database/static/js/main.d3e64078.js",
+    "static/media/pexels-yaroslav-shuraev-7041729.jpg": "/Book-Library-Database/static/media/pexels-yaroslav-shuraev-7041729.c601f1ceff1374cd10b8.jpg",
+    "static/media/layered-peaks-haikei(5).svg": "/Book-Library-Database/static/media/layered-peaks-haikei(5).cdddba3e84d9c5653c88.svg",
+    "index.html": "/Book-Library-Database/index.html",
+    "main.1603296b.css.map": "/Book-Library-Database/static/css/main.1603296b.css.map",
+    "main.d3e64078.js.map": "/Book-Library-Database/static/js/main.d3e64078.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1603296b.css",
+    "static/js/main.d3e64078.js"
+  ]
+}
